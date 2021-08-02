@@ -7,6 +7,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 Devices I own: Redmi Note 10 Pro (sweet), Redmi Note 7 (lavender), Lenovo Tab 4 (tbx304f), Redmi 3S (land), Samsung Galaxy Tab 2 (espressowifi)
+- 💻 Devices I own: Redmi Note 10 Pro (sweet), Redmi Note 7 (lavender), Lenovo Tab 4 (tbx304f), Redmi 3S (land), Samsung Galaxy Tab 2 (espressowifi)
+- 🔭 Other Hobbies: Photography
 - 🌱 I’m currently learning anything I find interesting
-- 📫 How to reach me: [Telegram](https://t.me/makhk) [XDA](https://forum.xda-developers.com/m/hk96.5897613/)
+- 📫 How to reach me: [Telegram](https://t.me/makhk), [XDA](https://forum.xda-developers.com/m/hk96.5897613/)
